@@ -1,4 +1,4 @@
-# star_ornament
+# star-ornament
 ★ Christmas PCB ornament designed for the JLCPCB design contest.
 
 [top_blk.jpg] 
