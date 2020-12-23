@@ -1,6 +1,6 @@
 # star-ornament
 
-★ Christmas Star PCB ornament designed for the JLCPCB (jlcpcb.com) design contest.
+★ Christmas Star PCB ornament designed for the [JLCPCB](jlcpcb.com) design contest.
 
 ★ Project details:
 - The PCB is quite tiny (4x4 cm)
